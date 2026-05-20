@@ -19,7 +19,10 @@ def read_text_file(raw):
 
 
 def extract_card_details(text):
+
     matches = re.findall(r"\b\d{4}[- ]?\d{4}[- ]?\d{4}[- ]?\d{4}\b", text)
+    # "[4 digits][one or more hyphen or space as a separator]" repeated 3 times
+    # on the fourth: "[4 digits]" with no separator at the end.
     results = []
     for match in matches:
         cleaned = match.replace("-", "").replace(" ", "")
@@ -34,15 +37,19 @@ def extract_card_details(text):
 
 # obfuscate  the last 12 numnbers
 def obfuscate_card_details(cleaned):
-    obfuscated = re.sub(
-        r"\d{12}$", " xxxx xxxx xxxx", cleaned
-    )  # added space before the "x"s to keep format consistent
+    obfuscated = re.sub(r"\d{12}$", " xxxx xxxx xxxx", cleaned)
+    # added space before the "x"s to keep format consistent
     return obfuscated
 
 
 # extract email addressses
 def extract_email(text):
     matches = re.findall(r"[\w.-]+@[\w.-]+\.[a-zA-Z]{2,}", text)
+    #     "One or more word characters, dots or hyphens (for the username)" then;
+    # @ symbol then;
+    # "One or more word characters, dots or hyphens (for the domain)" again (for the domain name) then;
+    # "a literal dot(\.)" followed by 2 or more letters (for the domain extension).
+
     results = []
 
     for match in matches:
@@ -52,6 +59,7 @@ def extract_email(text):
 
 
 def tag_email(email):
+    # Looking for ALU-Specific email addresses
     if email.endswith("@alumni.alueducation.com"):
         return {"email": email, "type": "Alumni"}
     elif email.endswith("@si.alueducation.com"):
@@ -64,17 +72,28 @@ def tag_email(email):
 
 # Extract Phone Numbers
 def extract_phone_numbers(text):
-    return re.findall(r"\+(?:\d[- ]?){7,15}", text)
+    matches = re.findall(r"\+(?:\d[- ]?){7,15}", text)
+    # "A literal plus sign" followed by "One digit followed by an optional space or hyphen"
+    # minimum of 7 and maximum of 15 digits
+
+    results = []
+    for match in matches:
+        results.append(match.strip())  # remove trailing space in output
+    return results
 
 
 # Extract Date and Time
 def extract_datetime(text):
+    # 4 digits for year, dash, 2 digits for month, dash, 2 digits for day, space,
+    # 2 digits for hour, colon, 2 digits for minutes, colon, 2 digits for seconds
     return re.findall(r"\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}", text)
 
 
 # Extract Currency Amount
 def extract_currency(text):
-    return re.findall(r"\$\d{1,3}(?:,\d{3})*\.\d{2}", text)
+    return re.findall(
+        r"\$\d{1,3}(?:,\d{3})*\.\d{2}", text
+    )  # "One or more digits, with an optional comma"
 
 
 # Output to JSON file
