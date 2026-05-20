@@ -62,9 +62,30 @@ def tag_email(email):
         return {"email": email, "type": "Generic"}
 
 
+# Extract Phone Numbers
+def extract_phone_numbers(text):
+    return re.findall(r"\+(?:\d[- ]?){7,15}", text)
+
+
+# Extract Date and Time
+def extract_datetime(text):
+    return re.findall(r"\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}", text)
+
+
+# Extract Currency Amount
+def extract_currency(text):
+    return re.findall(r"\$\d{1,3}(?:,\d{3})*\.\d{2}", text)
+
+
 # Output to JSON file
-def write_json_output(cards, emails):
-    output = {"credit_cards": cards, "emails": emails}
+def write_json_output(cards, emails, phone, dt, currency):
+    output = {
+        "credit_cards": cards,
+        "emails": emails,
+        "phone_numbers": phone,
+        "date_time": dt,
+        "currency": currency,
+    }
     with open("output/sample-output.json", "w", encoding="utf-8") as f:
         json.dump(output, f, indent=4)
 
@@ -73,7 +94,10 @@ def main():
     text = read_text_file("input/raw-text.txt")
     cards = extract_card_details(text)
     emails = extract_email(text)
-    write_json_output(cards, emails)
+    phone = extract_phone_numbers(text)
+    dt = extract_datetime(text)
+    currency = extract_currency(text)
+    write_json_output(cards, emails, phone, dt, currency)
 
 
 if __name__ == "__main__":

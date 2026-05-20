@@ -1,190 +1,349 @@
 {
-  "credit_cards": [
-    "4532 xxxx xxxx xxxx",
-    "4111 xxxx xxxx xxxx",
-    "4916 xxxx xxxx xxxx",
-    "4916 xxxx xxxx xxxx",
-    "5234 xxxx xxxx xxxx",
-    "4532 xxxx xxxx xxxx",
-    "4916 xxxx xxxx xxxx",
-    "5412 xxxx xxxx xxxx",
-    "4916 xxxx xxxx xxxx",
-    "4111 xxxx xxxx xxxx",
-    "5234 xxxx xxxx xxxx",
-    "4916 xxxx xxxx xxxx",
-    "4532 xxxx xxxx xxxx",
-    "4111 xxxx xxxx xxxx",
-    "4532 xxxx xxxx xxxx",
-    "5234 xxxx xxxx xxxx",
-    "4916 xxxx xxxx xxxx",
-    "4111 xxxx xxxx xxxx",
-    "4532 xxxx xxxx xxxx",
-    "4916 xxxx xxxx xxxx",
-    "4111 xxxx xxxx xxxx",
-    "9999 xxxx xxxx xxxx",
-    "4532 xxxx xxxx xxxx",
-    "4916 xxxx xxxx xxxx",
-    "4532 xxxx xxxx xxxx",
-    "4532 xxxx xxxx xxxx",
-    "5234 xxxx xxxx xxxx",
-    "4916 xxxx xxxx xxxx",
-    "0000 xxxx xxxx xxxx",
-    "4111 xxxx xxxx xxxx",
-    "4532 xxxx xxxx xxxx",
-    "4916 xxxx xxxx xxxx"
-  ],
-  "emails": [
-    {
-      "email": "a.nwosu@alueducation.com",
-      "type": "ALU Official"
-    },
-    {
-      "email": "k.asante@alueducation.com",
-      "type": "ALU Official"
-    },
-    {
-      "email": "fatima.alhassan@gmail.com",
-      "type": "Generic"
-    },
-    {
-      "email": "c.okonkwo@alueducation.com",
-      "type": "ALU Official"
-    },
-    {
-      "email": "aisha.diallo@yahoo.com",
-      "type": "Generic"
-    },
-    {
-      "email": "t.moyo@si.alueducation.com",
-      "type": "ALU SI"
-    },
-    {
-      "email": "ngozi.adeyemi@alueducation.com",
-      "type": "ALU Official"
-    },
-    {
-      "email": "kofi_mensah@outlook.com",
-      "type": "Generic"
-    },
-    {
-      "email": "z.ibrahim@alueducation.com",
-      "type": "ALU Official"
-    },
-    {
-      "email": "c.obi@alumni.alueducation.com",
-      "type": "Alumni"
-    },
-    {
-      "email": "yaw.darko@alumni.alueducation.com",
-      "type": "Alumni"
-    },
-    {
-      "email": "amina.sesay@gmail.com",
-      "type": "Generic"
-    },
-    {
-      "email": "b.fashola@alumni.alueducation.com",
-      "type": "Alumni"
-    },
-    {
-      "email": "miriam.kamau@alumni.alueducation.com",
-      "type": "Alumni"
-    },
-    {
-      "email": "seun.adesanya@gmail.com",
-      "type": "Generic"
-    },
-    {
-      "email": "chiamaka.nwachukwu@alumni.alueducation.com",
-      "type": "Alumni"
-    },
-    {
-      "email": "kweku.acheampong@yahoo.com",
-      "type": "Generic"
-    },
-    {
-      "email": "adaeze.okafor@alumni.alueducation.com",
-      "type": "Alumni"
-    },
-    {
-      "email": "sipho.dlamini@alumni.alueducation.com",
-      "type": "Alumni"
-    },
-    {
-      "email": "n.okonkwo@si.alueducation.com",
-      "type": "ALU SI"
-    },
-    {
-      "email": "a.girma@si.alueducation.com",
-      "type": "ALU SI"
-    },
-    {
-      "email": "fatou.diagne@si.alueducation.com",
-      "type": "ALU SI"
-    },
-    {
-      "email": "oluwaseun.bello@si.alueducation.com",
-      "type": "ALU SI"
-    },
-    {
-      "email": "a.koroma@si.alueducation.com",
-      "type": "ALU SI"
-    },
-    {
-      "email": "e.osei@alueducation.com",
-      "type": "ALU Official"
-    },
-    {
-      "email": "n.okonjo@alueducation.com",
-      "type": "ALU Official"
-    },
-    {
-      "email": "kwame.boateng@alueducation.com",
-      "type": "ALU Official"
-    },
-    {
-      "email": "chidinma.eze@alueducation.com",
-      "type": "ALU Official"
-    },
-    {
-      "email": "z.ibrahim@alueducation.com",
-      "type": "ALU Official"
-    },
-    {
-      "email": "adaeze.okafor@alumni.alueducation.com",
-      "type": "Alumni"
-    },
-    {
-      "email": "n.okonkwo@si.alueducation.com",
-      "type": "ALU SI"
-    },
-    {
-      "email": "amara.nwosu@alueducation.com",
-      "type": "ALU Official"
-    },
-    {
-      "email": "t.moyo@si.alueducation.com",
-      "type": "ALU SI"
-    },
-    {
-      "email": "aisha.diallo@yahoo.com",
-      "type": "Generic"
-    },
-    {
-      "email": "test@test.com",
-      "type": "Generic"
-    },
-    {
-      "email": "b.fashola@alumni.alueducation.com",
-      "type": "Alumni"
-    },
-    {
-      "email": "z.ibrahim@alueducation.com",
-      "type": "ALU Official"
-    },
-    {
-      "email": "emeka.eze@alueducation.com",
-      "type": "ALU Official"
-    }
-  ]
+    "credit_cards": [
+        "4532 xxxx xxxx xxxx",
+        "4111 xxxx xxxx xxxx",
+        "4916 xxxx xxxx xxxx",
+        "4916 xxxx xxxx xxxx",
+        "5234 xxxx xxxx xxxx",
+        "4532 xxxx xxxx xxxx",
+        "4916 xxxx xxxx xxxx",
+        "5412 xxxx xxxx xxxx",
+        "4916 xxxx xxxx xxxx",
+        "4111 xxxx xxxx xxxx",
+        "5234 xxxx xxxx xxxx",
+        "4916 xxxx xxxx xxxx",
+        "4532 xxxx xxxx xxxx",
+        "4111 xxxx xxxx xxxx",
+        "4532 xxxx xxxx xxxx",
+        "5234 xxxx xxxx xxxx",
+        "4916 xxxx xxxx xxxx",
+        "4111 xxxx xxxx xxxx",
+        "4532 xxxx xxxx xxxx",
+        "4916 xxxx xxxx xxxx",
+        "4111 xxxx xxxx xxxx",
+        "9999 xxxx xxxx xxxx",
+        "4532 xxxx xxxx xxxx",
+        "4916 xxxx xxxx xxxx",
+        "4532 xxxx xxxx xxxx",
+        "4532 xxxx xxxx xxxx",
+        "5234 xxxx xxxx xxxx",
+        "4916 xxxx xxxx xxxx",
+        "0000 xxxx xxxx xxxx",
+        "4111 xxxx xxxx xxxx",
+        "4532 xxxx xxxx xxxx",
+        "4916 xxxx xxxx xxxx"
+    ],
+    "emails": [
+        {
+            "email": "a.nwosu@alueducation.com",
+            "type": "ALU Official"
+        },
+        {
+            "email": "k.asante@alueducation.com",
+            "type": "ALU Official"
+        },
+        {
+            "email": "fatima.alhassan@gmail.com",
+            "type": "Generic"
+        },
+        {
+            "email": "c.okonkwo@alueducation.com",
+            "type": "ALU Official"
+        },
+        {
+            "email": "aisha.diallo@yahoo.com",
+            "type": "Generic"
+        },
+        {
+            "email": "t.moyo@si.alueducation.com",
+            "type": "ALU SI"
+        },
+        {
+            "email": "ngozi.adeyemi@alueducation.com",
+            "type": "ALU Official"
+        },
+        {
+            "email": "kofi_mensah@outlook.com",
+            "type": "Generic"
+        },
+        {
+            "email": "z.ibrahim@alueducation.com",
+            "type": "ALU Official"
+        },
+        {
+            "email": "c.obi@alumni.alueducation.com",
+            "type": "Alumni"
+        },
+        {
+            "email": "yaw.darko@alumni.alueducation.com",
+            "type": "Alumni"
+        },
+        {
+            "email": "amina.sesay@gmail.com",
+            "type": "Generic"
+        },
+        {
+            "email": "b.fashola@alumni.alueducation.com",
+            "type": "Alumni"
+        },
+        {
+            "email": "miriam.kamau@alumni.alueducation.com",
+            "type": "Alumni"
+        },
+        {
+            "email": "seun.adesanya@gmail.com",
+            "type": "Generic"
+        },
+        {
+            "email": "chiamaka.nwachukwu@alumni.alueducation.com",
+            "type": "Alumni"
+        },
+        {
+            "email": "kweku.acheampong@yahoo.com",
+            "type": "Generic"
+        },
+        {
+            "email": "adaeze.okafor@alumni.alueducation.com",
+            "type": "Alumni"
+        },
+        {
+            "email": "sipho.dlamini@alumni.alueducation.com",
+            "type": "Alumni"
+        },
+        {
+            "email": "n.okonkwo@si.alueducation.com",
+            "type": "ALU SI"
+        },
+        {
+            "email": "a.girma@si.alueducation.com",
+            "type": "ALU SI"
+        },
+        {
+            "email": "fatou.diagne@si.alueducation.com",
+            "type": "ALU SI"
+        },
+        {
+            "email": "oluwaseun.bello@si.alueducation.com",
+            "type": "ALU SI"
+        },
+        {
+            "email": "a.koroma@si.alueducation.com",
+            "type": "ALU SI"
+        },
+        {
+            "email": "e.osei@alueducation.com",
+            "type": "ALU Official"
+        },
+        {
+            "email": "n.okonjo@alueducation.com",
+            "type": "ALU Official"
+        },
+        {
+            "email": "kwame.boateng@alueducation.com",
+            "type": "ALU Official"
+        },
+        {
+            "email": "chidinma.eze@alueducation.com",
+            "type": "ALU Official"
+        },
+        {
+            "email": "z.ibrahim@alueducation.com",
+            "type": "ALU Official"
+        },
+        {
+            "email": "adaeze.okafor@alumni.alueducation.com",
+            "type": "Alumni"
+        },
+        {
+            "email": "n.okonkwo@si.alueducation.com",
+            "type": "ALU SI"
+        },
+        {
+            "email": "amara.nwosu@alueducation.com",
+            "type": "ALU Official"
+        },
+        {
+            "email": "t.moyo@si.alueducation.com",
+            "type": "ALU SI"
+        },
+        {
+            "email": "aisha.diallo@yahoo.com",
+            "type": "Generic"
+        },
+        {
+            "email": "test@test.com",
+            "type": "Generic"
+        },
+        {
+            "email": "b.fashola@alumni.alueducation.com",
+            "type": "Alumni"
+        },
+        {
+            "email": "z.ibrahim@alueducation.com",
+            "type": "ALU Official"
+        },
+        {
+            "email": "emeka.eze@alueducation.com",
+            "type": "ALU Official"
+        }
+    ],
+    "phone_numbers": [
+        "+254 712 345 678",
+        "+233 24 123 4567",
+        "+234-801-234-5678",
+        "+23480123456789",
+        "+221 77 123 4567",
+        "+263 77 123 4567",
+        "+2348034567890",
+        "+233-24-456-7890",
+        "+250 788 123 456",
+        "+234 802 345 6789",
+        "+233-20-789-0123",
+        "+23276123456",
+        "+234 803 456 7890",
+        "+254-701-234-567",
+        "+234 816 789 0123",
+        "+234-807-890-1234",
+        "+233 27 012 3456",
+        "+234 809 012 3456",
+        "+27 82 123 4567",
+        "+234 810 123 4567",
+        "+251 91 234 5678",
+        "+221-76-234-5678",
+        "+234 811 234 5678",
+        "+232 76 123 456",
+        "+233 24 567 8901",
+        "+234 805 678 9012",
+        "+233-26-789-0123",
+        "+252 61 234 5678",
+        "+234 806 789 0123",
+        "+254 712 345 678 ",
+        "+27 82 123 4567 ",
+        "+2348034567890 ",
+        "+254 712 345 678 ",
+        "+263 77 123 4567 ",
+        "+221 77 123 4567 ",
+        "+000 00 000 0000 ",
+        "+234 803 456 7890 ",
+        "+250 788 123 456 ",
+        "+234 806 789 0123 "
+    ],
+    "date_time": [
+        "2024-03-15 08:42:11",
+        "2024-03-01 09:15:00",
+        "2024-02-28 14:30:22",
+        "2024-03-10 07:45:10",
+        "2024-01-15 23:59:59",
+        "2024-03-05 11:20:45",
+        "2024-03-12 16:05:33",
+        "2024-02-14 08:00:00",
+        "2024-01-30 13:45:17",
+        "2024-03-08 19:22:41",
+        "2024-03-14 06:30:55",
+        "2024-03-01 10:00:00",
+        "2023-12-15 15:45:30",
+        "2024-02-20 09:10:05",
+        "2022-06-30 12:00:00",
+        "2023-11-11 11:11:11",
+        "2024-03-13 20:15:44",
+        "2023-09-25 17:30:00",
+        "2022-08-19 08:45:22",
+        "2024-03-10 14:20:33",
+        "2023-10-05 22:10:08",
+        "2024-03-11 10:30:00",
+        "2024-03-09 13:15:22",
+        "2024-02-29 09:45:11",
+        "2024-01-20 16:55:39",
+        "2024-03-07 11:00:00",
+        "2024-03-15 08:00:00",
+        "2024-03-15 08:00:00",
+        "2024-03-15 08:00:00",
+        "2024-03-15 08:00:00",
+        "2024-03-15 08:00:00",
+        "2024-03-14 09:12:34",
+        "2024-03-14 09:15:22",
+        "2024-03-14 09:18:45",
+        "2024-03-14 09:22:11",
+        "2024-03-14 09:45:33",
+        "2024-03-14 10:02:17",
+        "2024-03-14 10:15:44",
+        "2024-03-14 10:22:09",
+        "2024-03-14 10:45:17",
+        "2024-03-14 11:02:33",
+        "2024-03-14 11:15:44",
+        "2024-03-14 11:22:19",
+        "2024-03-14 11:45:02",
+        "2024-03-14 12:02:44",
+        "2024-03-14 12:15:33",
+        "2024-03-14 12:30:01",
+        "2024-03-14 12:45:19",
+        "2024-03-14 13:00:44",
+        "2024-03-14 13:15:22",
+        "2024-03-14 13:30:11",
+        "2024-03-01 09:15:00",
+        "2024-03-12 16:05:33",
+        "2024-03-05 11:20:45",
+        "2024-01-01 00:00:00",
+        "2022-06-30 12:00:00",
+        "2024-03-08 19:22:41",
+        "2024-03-14 06:30:55"
+    ],
+    "currency": [
+        "$2,400.00",
+        "$2,400.00",
+        "$1,800.00",
+        "$1,800.00",
+        "$3,200.00",
+        "$3,200.00",
+        "$0.00",
+        "$0.00",
+        "$900.00",
+        "$900.00",
+        "$1,200.00",
+        "$1,200.00",
+        "$4,100.00",
+        "$4,100.00",
+        "$6,700.00",
+        "$6,700.00",
+        "$2,100.00",
+        "$2,100.00",
+        "$800.00",
+        "$800.00",
+        "$5,412.00",
+        "$4,916.00",
+        "$0.00",
+        "$4,111.00",
+        "$5,234.00",
+        "$4,916.00",
+        "$4,532.00",
+        "$4,916.00",
+        "$4,111.00",
+        "$0.00",
+        "$4,532.00",
+        "$5,234.00",
+        "$4,916.00",
+        "$0.00",
+        "$4,111.00",
+        "$0.00",
+        "$0.00",
+        "$0.00",
+        "$0.00",
+        "$0.00",
+        "$2,400.00",
+        "$900.00",
+        "$0.00",
+        "$1,800.00",
+        "$0.00",
+        "$2,100.00",
+        "$4,916.00",
+        "$4,532.00",
+        "$0.00",
+        "$2,400.00",
+        "$1,200.00",
+        "$900.00",
+        "$0.00",
+        "$4,111.00",
+        "$2,100.00",
+        "$800.00"
+    ]
 }
