@@ -1,0 +1,190 @@
+{
+  "credit_cards": [
+    "4532 xxxx xxxx xxxx",
+    "4111 xxxx xxxx xxxx",
+    "4916 xxxx xxxx xxxx",
+    "4916 xxxx xxxx xxxx",
+    "5234 xxxx xxxx xxxx",
+    "4532 xxxx xxxx xxxx",
+    "4916 xxxx xxxx xxxx",
+    "5412 xxxx xxxx xxxx",
+    "4916 xxxx xxxx xxxx",
+    "4111 xxxx xxxx xxxx",
+    "5234 xxxx xxxx xxxx",
+    "4916 xxxx xxxx xxxx",
+    "4532 xxxx xxxx xxxx",
+    "4111 xxxx xxxx xxxx",
+    "4532 xxxx xxxx xxxx",
+    "5234 xxxx xxxx xxxx",
+    "4916 xxxx xxxx xxxx",
+    "4111 xxxx xxxx xxxx",
+    "4532 xxxx xxxx xxxx",
+    "4916 xxxx xxxx xxxx",
+    "4111 xxxx xxxx xxxx",
+    "9999 xxxx xxxx xxxx",
+    "4532 xxxx xxxx xxxx",
+    "4916 xxxx xxxx xxxx",
+    "4532 xxxx xxxx xxxx",
+    "4532 xxxx xxxx xxxx",
+    "5234 xxxx xxxx xxxx",
+    "4916 xxxx xxxx xxxx",
+    "0000 xxxx xxxx xxxx",
+    "4111 xxxx xxxx xxxx",
+    "4532 xxxx xxxx xxxx",
+    "4916 xxxx xxxx xxxx"
+  ],
+  "emails": [
+    {
+      "email": "a.nwosu@alueducation.com",
+      "type": "ALU Official"
+    },
+    {
+      "email": "k.asante@alueducation.com",
+      "type": "ALU Official"
+    },
+    {
+      "email": "fatima.alhassan@gmail.com",
+      "type": "Generic"
+    },
+    {
+      "email": "c.okonkwo@alueducation.com",
+      "type": "ALU Official"
+    },
+    {
+      "email": "aisha.diallo@yahoo.com",
+      "type": "Generic"
+    },
+    {
+      "email": "t.moyo@si.alueducation.com",
+      "type": "ALU SI"
+    },
+    {
+      "email": "ngozi.adeyemi@alueducation.com",
+      "type": "ALU Official"
+    },
+    {
+      "email": "kofi_mensah@outlook.com",
+      "type": "Generic"
+    },
+    {
+      "email": "z.ibrahim@alueducation.com",
+      "type": "ALU Official"
+    },
+    {
+      "email": "c.obi@alumni.alueducation.com",
+      "type": "Alumni"
+    },
+    {
+      "email": "yaw.darko@alumni.alueducation.com",
+      "type": "Alumni"
+    },
+    {
+      "email": "amina.sesay@gmail.com",
+      "type": "Generic"
+    },
+    {
+      "email": "b.fashola@alumni.alueducation.com",
+      "type": "Alumni"
+    },
+    {
+      "email": "miriam.kamau@alumni.alueducation.com",
+      "type": "Alumni"
+    },
+    {
+      "email": "seun.adesanya@gmail.com",
+      "type": "Generic"
+    },
+    {
+      "email": "chiamaka.nwachukwu@alumni.alueducation.com",
+      "type": "Alumni"
+    },
+    {
+      "email": "kweku.acheampong@yahoo.com",
+      "type": "Generic"
+    },
+    {
+      "email": "adaeze.okafor@alumni.alueducation.com",
+      "type": "Alumni"
+    },
+    {
+      "email": "sipho.dlamini@alumni.alueducation.com",
+      "type": "Alumni"
+    },
+    {
+      "email": "n.okonkwo@si.alueducation.com",
+      "type": "ALU SI"
+    },
+    {
+      "email": "a.girma@si.alueducation.com",
+      "type": "ALU SI"
+    },
+    {
+      "email": "fatou.diagne@si.alueducation.com",
+      "type": "ALU SI"
+    },
+    {
+      "email": "oluwaseun.bello@si.alueducation.com",
+      "type": "ALU SI"
+    },
+    {
+      "email": "a.koroma@si.alueducation.com",
+      "type": "ALU SI"
+    },
+    {
+      "email": "e.osei@alueducation.com",
+      "type": "ALU Official"
+    },
+    {
+      "email": "n.okonjo@alueducation.com",
+      "type": "ALU Official"
+    },
+    {
+      "email": "kwame.boateng@alueducation.com",
+      "type": "ALU Official"
+    },
+    {
+      "email": "chidinma.eze@alueducation.com",
+      "type": "ALU Official"
+    },
+    {
+      "email": "z.ibrahim@alueducation.com",
+      "type": "ALU Official"
+    },
+    {
+      "email": "adaeze.okafor@alumni.alueducation.com",
+      "type": "Alumni"
+    },
+    {
+      "email": "n.okonkwo@si.alueducation.com",
+      "type": "ALU SI"
+    },
+    {
+      "email": "amara.nwosu@alueducation.com",
+      "type": "ALU Official"
+    },
+    {
+      "email": "t.moyo@si.alueducation.com",
+      "type": "ALU SI"
+    },
+    {
+      "email": "aisha.diallo@yahoo.com",
+      "type": "Generic"
+    },
+    {
+      "email": "test@test.com",
+      "type": "Generic"
+    },
+    {
+      "email": "b.fashola@alumni.alueducation.com",
+      "type": "Alumni"
+    },
+    {
+      "email": "z.ibrahim@alueducation.com",
+      "type": "ALU Official"
+    },
+    {
+      "email": "emeka.eze@alueducation.com",
+      "type": "ALU Official"
+    }
+  ]
+}

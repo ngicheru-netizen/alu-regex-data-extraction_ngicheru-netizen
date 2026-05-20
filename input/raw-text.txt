@@ -1,0 +1,410 @@
+=======================================================
+ALU STUDENT RECORDS MANAGEMENT SYSTEM
+Database Export - Academic Year 2024/2025
+Generated: 2024-03-15 08:42:11
+Export ID: ALU-DB-2024-EXP-0392
+=======================================================
+
+SECTION 1: ACTIVE STUDENTS
+---------------------------
+Record #001
+Name: Amara Nwosu
+Student ID: ALU-2024-0023
+Email: a.nwosu@alueducation.com
+Phone: +254 712 345 678
+Payment Reference: 4532-1234-5678-9012
+Last Payment: 2024-03-01 09:15:00
+Amount Paid: $2,400.00
+Program: BSc Computer Science
+Status: Active
+Tuition Balance: $2,400.00
+
+Record #002
+Name: Kwame Asante
+Student ID: ALU-2024-0047
+Email: k.asante@alueducation.com
+Phone: +233 24 123 4567
+Payment Reference: 4111 1111 1111 1111
+Last Payment: 2024-02-28 14:30:22
+Amount Paid: $1,800.00
+Program: BSc Business Management
+Status: Active
+Tuition Balance: $1,800.00
+
+Record #003
+Name: Fatima Al-Hassan
+Student ID: ALU-2024-0089
+Email: fatima.alhassan@gmail.com
+Phone: +234-801-234-5678
+Payment Reference: 4916123456789012
+Last Payment: 2024-03-10 07:45:10
+Amount Paid: $3,200.00
+Program: BSc Entrepreneurship
+Status: Active
+Tuition Balance: $3,200.00
+
+Record #004
+Name: Chidi Okonkwo
+Student ID: ALU-2024-0102
+Email: c.okonkwo@alueducation.com
+Phone: +23480123456789
+Payment Reference: 4532-ABCD-5678-9012
+Last Payment: 2024-01-15 23:59:59
+Amount Paid: $0.00
+Program: BSc Software Engineering
+Status: Active
+Tuition Balance: $0.00
+
+Record #005
+Name: Aisha Diallo
+Student ID: ALU-2024-0156
+Email: aisha.diallo@yahoo.com
+Phone: +221 77 123 4567
+Payment Reference: 4916-0034-5678-9012
+Last Payment: 2024-03-05 11:20:45
+Amount Paid: $900.00
+Program: BSc Global Challenges
+Status: Active
+Tuition Balance: $900.00
+
+Record #006
+Name: Tendai Moyo
+Student ID: ALU-2024-0178
+Email: t.moyo@si.alueducation.com
+Phone: +263 77 123 4567
+Payment Reference: 5234 5678 9012 3456
+Last Payment: 2024-03-12 16:05:33
+Amount Paid: $1,200.00
+Program: Social Innovation
+Status: Active
+Tuition Balance: $1,200.00
+
+Record #007
+Name: Ngozi Adeyemi
+Student ID: ALU-2024-0201
+Email: ngozi.adeyemi@alueducation.com
+Phone: +2348034567890
+Payment Reference: 37144963539843
+Last Payment: 2024-02-14 08:00:00
+Amount Paid: $4,100.00
+Program: BSc Computer Science
+Status: Active
+Tuition Balance: $4,100.00
+
+Record #008
+Name: Kofi Mensah
+Student ID: ALU-2024-0234
+Email: kofi_mensah@outlook.com
+Phone: +233-24-456-7890
+Payment Reference: 4916-0034-5678
+Last Payment: 2024-01-30 13:45:17
+Amount Paid: $6,700.00
+Program: BSc Business Management
+Status: Suspended
+Tuition Balance: $6,700.00
+
+Record #009
+Name: Zainab Ibrahim
+Student ID: ALU-2024-0267
+Email: z.ibrahim@alueducation.com
+Phone: +250 788 123 456
+Payment Reference: 4532 9876 5432 1098
+Last Payment: 2024-03-08 19:22:41
+Amount Paid: $2,100.00
+Program: BSc Entrepreneurship
+Status: Active
+Tuition Balance: $2,100.00
+
+Record #010
+Name: Emeka Eze
+Student ID: ALU-2024-0289
+Email: emeka.eze@
+Phone: 080-123-456
+Payment Reference: 4916-7894-5612-3478
+Last Payment: 2024-03-14 06:30:55
+Amount Paid: $800.00
+Program: BSc Software Engineering
+Status: Active
+Tuition Balance: $800.00
+
+=======================================================
+SECTION 2: ALUMNI RECORDS
+---------------------------
+Record #011
+Name: Chisom Obi
+Student ID: ALU-2021-0045
+Email: c.obi@alumni.alueducation.com
+Phone: +234 802 345 6789
+Last Payment: 2024-03-01 10:00:00
+Amount Paid: $5,412.00
+Payment Reference: 5412-7534-9823-4521
+Program: BSc Computer Science
+Graduation Year: 2024
+Employment: Google LLC
+
+Record #012
+Name: Yaw Darko
+Student ID: ALU-2020-0078
+Email: yaw.darko@alumni.alueducation.com
+Phone: +233-20-789-0123
+Last Payment: 2023-12-15 15:45:30
+Amount Paid: $4,916.00
+Payment Reference: 4916 3344 5566 7788
+Program: BSc Business Management
+Graduation Year: 2023
+Employment: McKinsey & Company
+
+Record #013
+Name: Amina Sesay
+Student ID: ALU-2021-0112
+Email: amina.sesay@gmail.com
+Phone: +23276123456
+Last Payment: 2024-02-20 09:10:05
+Amount Paid: $0.00
+Payment Reference: 4532-1234
+Program: BSc Entrepreneurship
+Graduation Year: 2024
+Employment: Self Employed
+
+Record #014
+Name: Babatunde Fashola
+Student ID: ALU-2019-0134
+Email: b.fashola@alumni.alueducation.com
+Phone: +234 803 456 7890
+Last Payment: 2022-06-30 12:00:00
+Amount Paid: $4,111.00
+Payment Reference: 4111-2222-3333-4444
+Program: BSc Global Challenges
+Graduation Year: 2022
+Employment: United Nations
+
+Record #015
+Name: Miriam Kamau
+Student ID: ALU-2020-0167
+Email: miriam.kamau@alumni.alueducation.com
+Phone: +254-701-234-567
+Last Payment: 2023-11-11 11:11:11
+Amount Paid: $5,234.00
+Payment Reference: 5234567890123456
+Program: BSc Computer Science
+Graduation Year: 2023
+Employment: Safaricom PLC
+
+Record #016
+Name: Seun Adesanya
+Student ID: ALU-2021-0189
+Email: @@seun.adesanya@gmail.com
+Phone: +234 816 789 0123
+Last Payment: 2024-03-13 20:15:44
+Amount Paid: $4,916.00
+Payment Reference: 4916-0034-5678-9999
+Program: BSc Software Engineering
+Graduation Year: 2024
+Employment: Andela
+
+Record #017
+Name: Chiamaka Nwachukwu
+Student ID: ALU-2020-0212
+Email: chiamaka.nwachukwu@alumni.alueducation.com
+Phone: +234-807-890-1234
+Last Payment: 2023-09-25 17:30:00
+Amount Paid: $4,532.00
+Payment Reference: 4532 1111 2222 3333
+Program: BSc Entrepreneurship
+Graduation Year: 2023
+Employment: Flutterwave
+
+Record #018
+Name: Kweku Acheampong
+Student ID: ALU-2019-0245
+Email: kweku.acheampong@yahoo.com
+Phone: +233 27 012 3456
+Last Payment: 2022-08-19 08:45:22
+Amount Paid: $4,916.00
+Payment Reference: 4916-1234-5678-000A
+Program: BSc Business Management
+Graduation Year: 2022
+Employment: Deloitte Africa
+
+Record #019
+Name: Adaeze Okafor
+Student ID: ALU-2021-0278
+Email: adaeze.okafor@alumni.alueducation.com
+Phone: +234 809 012 3456
+Last Payment: 2024-03-10 14:20:33
+Amount Paid: $4,111.00
+Payment Reference: 4111 0000 1111 2222
+Program: BSc Global Challenges
+Graduation Year: 2024
+Employment: African Development Bank
+
+Record #020
+Name: Sipho Dlamini
+Student ID: ALU-2020-0301
+Email: sipho.dlamini@alumni.alueducation.com
+Phone: +27 82 123 4567
+Last Payment: 2023-10-05 22:10:08
+Amount Paid: $0.00
+Payment Reference: 54127534
+Program: BSc Computer Science
+Graduation Year: 2023
+Employment: Standard Bank
+
+=======================================================
+SECTION 3: SOCIAL INNOVATION FELLOWS
+--------------------------------------
+Record #021
+Name: Nkechi Okonkwo
+Student ID: ALU-SI-2024-001
+Email: n.okonkwo@si.alueducation.com
+Phone: +234 810 123 4567
+Payment Reference: 4532-8765-4321-0987
+Last Payment: 2024-03-11 10:30:00
+Amount Paid: $4,532.00
+Fellowship: Health Innovation
+Status: Active
+
+Record #022
+Name: Abebe Girma
+Student ID: ALU-SI-2024-002
+Email: a.girma@si.alueducation.com
+Phone: +251 91 234 5678
+Payment Reference: 5234 9876 5432 1098
+Last Payment: 2024-03-09 13:15:22
+Amount Paid: $5,234.00
+Fellowship: AgriTech
+Status: Active
+
+Record #023
+Name: Fatou Diagne
+Student ID: ALU-SI-2024-003
+Email: fatou.diagne@si.alueducation.com
+Phone: +221-76-234-5678
+Last Payment: 2024-02-29 09:45:11
+Amount Paid: $4,916.00
+Payment Reference: 4916-2233-4455-6677
+Fellowship: EdTech
+Status: Active
+
+Record #024
+Name: Oluwaseun Bello
+Student ID: ALU-SI-2024-004
+Email: oluwaseun.bello@si.alueducation.com
+Phone: +234 811 234 5678
+Payment Reference: 4532 1234 5678 90
+Last Payment: 2024-01-20 16:55:39
+Amount Paid: $0.00
+Fellowship: FinTech
+Status: Suspended
+
+Record #025
+Name: Amara Koroma
+Student ID: ALU-SI-2024-005
+Email: a.koroma@si.alueducation.com
+Phone: +232 76 123 456
+Payment Reference: 4111-3333-2222-1111
+Last Payment: 2024-03-07 11:00:00
+Amount Paid: $4,111.00
+Fellowship: CleanTech
+Status: Active
+
+=======================================================
+SECTION 4: STAFF RECORDS
+--------------------------
+Record #026
+Name: Dr. Emmanuel Osei
+Staff ID: ALU-STAFF-0012
+Email: e.osei@alueducation.com
+Phone: +233 24 567 8901
+Last Payment: 2024-03-15 08:00:00
+Amount Paid: $0.00
+Department: Computer Science
+Office: RW-204
+
+Record #027
+Name: Prof. Ngozi Okonjo
+Staff ID: ALU-STAFF-0034
+Email: n.okonjo@alueducation.com
+Phone: +234 805 678 9012
+Last Payment: 2024-03-15 08:00:00
+Amount Paid: $0.00
+Department: Business Management
+Office: RW-301
+
+Record #028
+Name: Mr. Kwame Boateng
+Staff ID: ALU-STAFF-0056
+Email: kwame.boateng@alueducation.com
+Phone: +233-26-789-0123
+Last Payment: 2024-03-15 08:00:00
+Amount Paid: $0.00
+Department: Student Affairs
+Office: RW-102
+
+Record #029
+Name: Dr. Amina Warsame
+Staff ID: ALU-STAFF-0078
+Email: a.warsame@
+Phone: +252 61 234 5678
+Last Payment: 2024-03-15 08:00:00
+Amount Paid: $0.00
+Department: Global Challenges
+Office: RW-405
+
+Record #030
+Name: Ms. Chidinma Eze
+Staff ID: ALU-STAFF-0089
+Email: chidinma.eze@alueducation.com
+Phone: +234 806 789 0123
+Last Payment: 2024-03-15 08:00:00
+Amount Paid: $0.00
+Department: Finance
+Office: RW-201
+
+=======================================================
+SECTION 5: SYSTEM LOGS & ANOMALIES
+-------------------------------------
+[2024-03-14 09:12:34] Payment attempt: 4532-1234-5678-9012 - Amount: $2,400.00 - SUCCESS
+[2024-03-14 09:15:22] Payment attempt: 4916-0034-5678-9999 - Amount: $900.00 - SUCCESS
+[2024-03-14 09:18:45] Payment attempt: 1234-5678-9012 - Amount: $0.00 - FAILED: Invalid card format
+[2024-03-14 09:22:11] Payment attempt: 4111-1111-1111-1111 - Amount: $1,800.00 - SUCCESS
+[2024-03-14 09:45:33] Suspicious login attempt from: hack3r@.com
+[2024-03-14 10:02:17] Password reset requested: z.ibrahim@alueducation.com
+[2024-03-14 10:15:44] Payment attempt: 9999999999999999 - Amount: $0.00 - FAILED: Invalid card
+[2024-03-14 10:22:09] New registration: adaeze.okafor@alumni.alueducation.com
+[2024-03-14 10:45:17] Payment attempt: 4532 9999 8888 7777 - Amount: $2,100.00 - SUCCESS
+[2024-03-14 11:02:33] Suspicious input detected: <script>alert('xss')</script>
+[2024-03-14 11:15:44] Payment attempt: 4916 3344 5566 7788 - Amount: $4,916.00 - SUCCESS
+[2024-03-14 11:22:19] Failed login: @@invalid-email@@domain.com
+[2024-03-14 11:45:02] Payment attempt: 4532-8765-4321-0987 - Amount: $4,532.00 - SUCCESS
+[2024-03-14 12:02:44] New registration: n.okonkwo@si.alueducation.com
+[2024-03-14 12:15:33] Payment attempt: 45321234567890AB - Amount: $0.00 - FAILED: Invalid card format
+[2024-03-14 12:30:01] Phone verification attempt: +254 712 345 678 - SUCCESS
+[2024-03-14 12:45:19] Phone verification attempt: 080-123-456 - FAILED: Invalid format
+[2024-03-14 13:00:44] Phone verification attempt: +27 82 123 4567 - SUCCESS
+[2024-03-14 13:15:22] Phone verification attempt: +2348034567890 - SUCCESS
+[2024-03-14 13:30:11] Phone verification attempt: 12345 - FAILED: Invalid format
+
+=======================================================
+SECTION 6: MISCELLANEOUS DATA & NOISE
+----------------------------------------
+The following data was recovered from a corrupted export batch.
+Formatting may be inconsistent or incomplete.
+
+ref: 4532-1234-5678-9012 | contact: amara.nwosu@alueducation.com | phone: +254 712 345 678 | paid: $2,400.00 | date: 2024-03-01 09:15:00
+ref: 999-999-999 | contact: broken.email@ | phone: 999 | bal: unknown
+ref: 5234 5678 9012 3456 | contact: t.moyo@si.alueducation.com | phone: +263 77 123 4567 | paid: $1,200.00 | date: 2024-03-12 16:05:33
+ref: 4916-0034-5678-9012 | contact: aisha.diallo@yahoo.com | phone: +221 77 123 4567 | paid: $900.00 | date: 2024-03-05 11:20:45
+ref: 0000-0000-0000-0000 | contact: test@test.com | phone: +000 00 000 0000 | paid: $0.00 | date: 2024-01-01 00:00:00
+ref: 4111 2222 3333 4444 | contact: b.fashola@alumni.alueducation.com | phone: +234 803 456 7890 | paid: $4,111.00 | date: 2022-06-30 12:00:00
+ref: random text 1234 not a card 5678 more text | contact: notanemail | phone: not-a-phone | bal: N/A
+ref: 4532 9876 5432 1098 | contact: z.ibrahim@alueducation.com | phone: +250 788 123 456 | paid: $2,100.00 | date: 2024-03-08 19:22:41
+ref: 4916-7894-5612-3478 | contact: emeka.eze@alueducation.com | phone: +234 806 789 0123 | paid: $800.00 | date: 2024-03-14 06:30:55
+ref: 12345 | contact: invalid@ | phone: 000 | bal: N/A
+
+=======================================================
+END OF EXPORT
+Total Records Processed: 50
+Export Checksum: ALU2024EXP0392CHECKSUM
+Generated By: ALU Data Management System v2.4.1
+=======================================================
